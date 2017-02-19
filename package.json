@@ -1,0 +1,11 @@
+{
+  "name": "cli-dot-matrix-display",
+  "version": "0.1.2",
+  "description": "A library to create a command line dot matrix display.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Björn Hempel <bjoern@hempel.li>",
+  "license": "ISC"
+}
